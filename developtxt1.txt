@@ -1,2 +1,3 @@
 developtxt1.txt
 hi!
+fix out bug!
